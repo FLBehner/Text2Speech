@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wissenstest</string>
+    <string name="beschreibung">Was soll ich sagen?</string>
+    <string name="eingabefeld_beschreibung2">Hier tippen!</string>
+    <string name="buttton_sag_es">Sag es!</string>
+</resources>

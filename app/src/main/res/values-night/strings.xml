@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="beschreibung">Was soll ich sagen?</string>
+    <string name="eingabefeld_beschreibung" />
+    <string name="eingabefeld_beschreibung2">Hier tippen!</string>
+    <string name="buttton_sag_es">Sag es!</string>
+</resources>
